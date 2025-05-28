@@ -1,0 +1,9 @@
+TT 20000
+dT 0.001
+theta0 1.57
+omega0 0.14
+L 1
+M 1
+g 9.81
+ts 100
+out_pendolo0_1.csv 

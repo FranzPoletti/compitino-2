@@ -1,0 +1,3 @@
+guardare passaggio di G e L in numpy
+struct 
+argc e argv omega e theta da terminale 
