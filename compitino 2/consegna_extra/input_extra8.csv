@@ -1,9 +1,8 @@
-T 20000
+TT 20000
 dT 0.001
-theta0 0.39
+theta0 1.16
 omega0 0
 L 1
-#ciaoooo
 M 1
 g 9.81
 ts 100

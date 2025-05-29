@@ -1,0 +1,9 @@
+T 700
+dT 0.04
+theta0 0.087
+omega0 1000
+L 1
+M 1
+g 9.81
+ts 1
+consegna_extra/out_pendolo0_1.csv 

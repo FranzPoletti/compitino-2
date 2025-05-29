@@ -1,0 +1,1 @@
+void velocity_verlet(float *p, float theta_i, float omega_i, float alpha_i, float DT, float M, float L, float G, float (*f)(float, float, float));

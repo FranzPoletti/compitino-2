@@ -1,7 +1,7 @@
-TT 20000
+T 20000
 dT 0.001
 theta0 1.16
-omega0 0.12
+omega0 0
 L 1
 M 1
 g 9.81
