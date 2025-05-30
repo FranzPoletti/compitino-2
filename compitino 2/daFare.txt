@@ -1,3 +1,6 @@
-guardare passaggio di G e L in numpy
-struct 
-argc e argv omega e theta da terminale 
+omega massima V
+numero di step ed overflow V
+controllo valori utenti V
+controllo theta inziale V
+controllare grafico theta(t) per omega diverso da 0
+

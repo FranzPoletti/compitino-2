@@ -1,10 +1,19 @@
+#Condizioni iniziali per l'integratore 
+#Lunghezza della simulazione in passi; float
 T 20000
-dT 0.0005
-theta0 0.06
+#Incremento temporale; float
+dT 0.001
+#Angolo iniziale rispetto alla normale in radianti; float
+theta0 0.087
+#velocità angolare iniziale; float
 omega0 0 
+#lunghezza della fune; float
 L 1
-#ciaoooo
+#massa; float
 M 1
+#accelerazione di gravità float
 g 9.81
+#tempo di salvataggio, rappresenta ogni quanti passi salvare l'output su file; int 
 ts 100
+#nome file in output
 out_pendolo0_1.csv 

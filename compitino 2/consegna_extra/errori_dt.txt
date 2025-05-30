@@ -1,6 +1,6 @@
 Con dt inferiore a 0.07, per condizioni di omega e theta anche piuttosto diverse, l'errore relativo rimane sempre al di sotto dell 1%
 
-dt, errore relativo theta omega
+dt  errore relativo theta omega
 0.5 0.5948346712861772 0.12 0
 0.25 0.15298675872247494 0.12 0
 0.1 0.024503217454580516 0.12 0
